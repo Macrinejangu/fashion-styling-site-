@@ -49,7 +49,6 @@ I connected the contact form to [Formspree.io](https://formspree.io/) so I can r
 | **Google Fonts** | Using Georgia & Verdana to add personality |
 | **Formspree** | Free tool to handle form submissions |
 | **Google Calendar** | To embed a consultation booking button |
-| **Canvas Confetti** | A fun JS library to show confetti on quiz result |
 
 ## Project Structure
 
