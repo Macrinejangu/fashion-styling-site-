@@ -43,8 +43,8 @@ I connected the contact form to [Formspree.io](https://formspree.io/) so I can r
 ## Technologies Used
 
 | Tool/Language | Purpose |
-| **HTML5** | Building the site’s structure |
-| **CSS3** | Styling and layout (fonts, colors, responsiveness) |
+| **HTML** | Building the site’s structure |
+| **CSS** | Styling and layout (fonts, colors, responsiveness) |
 | **JavaScript** | Making the quiz interactive and adding logic |
 | **Google Fonts** | Using Georgia & Verdana to add personality |
 | **Formspree** | Free tool to handle form submissions |
