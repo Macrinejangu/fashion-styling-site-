@@ -59,7 +59,7 @@ I connected the contact form to [Formspree.io](https://formspree.io/) so I can r
 ├── lookbook.html
 ├── quiz.html
 ├── services.html
-├── script.js            // JavaScript logic for quiz + confetti
+├── script.js            // JavaScript logic for quiz 
 ├── style.css            // Site-wide styling
 ├── Images/              // Folder with all styling images (Image 1.jpeg to Image 36.jpeg)
 └── README.md            // (This file)
